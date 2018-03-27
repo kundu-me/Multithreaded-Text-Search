@@ -1,0 +1,9 @@
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\bin\Debug\nxk161830Asg4.exe.config
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\bin\Debug\nxk161830Asg4.exe
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\bin\Debug\nxk161830Asg4.pdb
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\obj\Debug\nxk161830Asg4.csprojResolveAssemblyReference.cache
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\obj\Debug\nxk161830Asg4.Form1.resources
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\obj\Debug\nxk161830Asg4.Properties.Resources.resources
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\obj\Debug\nxk161830Asg4.csproj.GenerateResource.Cache
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\obj\Debug\nxk161830Asg4.exe
+c:\users\nxk161830\documents\visual studio 2015\Projects\nxk161830Asg4\nxk161830Asg4\obj\Debug\nxk161830Asg4.pdb
